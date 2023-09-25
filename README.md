@@ -8,5 +8,5 @@ This project not only ensures the smooth execution of everyday banking tasks but
 EMU8086
 `
 
-# Author:
+# Author
 Asaad Noman Abbasi
